@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Bacolod City" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[122.90, 10.60], [123.05, 10.60], [123.05, 10.75], [122.90, 10.75], [122.90, 10.60]]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Dumaguete City" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[123.25, 9.25], [123.35, 9.25], [123.35, 9.35], [123.25, 9.35], [123.25, 9.25]]
+        ]
+      }
+    }
+  ]
+}
